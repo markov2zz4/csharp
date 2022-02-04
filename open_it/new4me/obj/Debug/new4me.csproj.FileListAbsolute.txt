@@ -1,0 +1,7 @@
+D:\Work\Programming\open_it\new4me\bin\Debug\new4me.exe.config
+D:\Work\Programming\open_it\new4me\bin\Debug\new4me.exe
+D:\Work\Programming\open_it\new4me\bin\Debug\new4me.pdb
+D:\Work\Programming\open_it\new4me\obj\Debug\new4me.csproj.AssemblyReference.cache
+D:\Work\Programming\open_it\new4me\obj\Debug\new4me.csproj.CoreCompileInputs.cache
+D:\Work\Programming\open_it\new4me\obj\Debug\new4me.exe
+D:\Work\Programming\open_it\new4me\obj\Debug\new4me.pdb
