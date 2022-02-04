@@ -237,15 +237,14 @@ namespace CSharp_for_education
 
         }
 
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
 
+            Calculator();
 
-        //    ArrayWork();
-
-        //    Console.WriteLine("Press any key to close...");
-        //    Console.ReadKey();
-        //}
+            Console.WriteLine("Press any key to close...");
+            Console.ReadKey();
+        }
 
     }
 }
