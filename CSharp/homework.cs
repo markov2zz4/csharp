@@ -83,6 +83,7 @@ namespace CSharp_for_education
                 Console.WriteLine("Введите номер функции, которая сделает калькулятор");
                 Console.WriteLine("1. if, else\n2. switch, case");
                 int choiceFunc = int.Parse(Console.ReadLine());
+                Console.Clear();
 
                 if (choiceFunc == 1)
                 {
@@ -97,17 +98,17 @@ namespace CSharp_for_education
                     Console.WriteLine("1. - \n2. + \n3. * \n4. / \n5. % ");
                     int choice = int.Parse(Console.ReadLine());
 
-                    if (choice == 1) { Console.WriteLine("\t" + firstValue + " - " + secondValue + " = " + (firstValue - secondValue)); }
-                    else if (choice == 2) { Console.WriteLine("\t" + firstValue + " + " + secondValue + " = " + (firstValue + secondValue)); }
-                    else if (choice == 3) { Console.WriteLine("\t" + firstValue + " * " + secondValue + " = " + (firstValue * secondValue)); }
+                    if (choice == 1) { Console.WriteLine($"\t{firstValue} - {secondValue} = {firstValue - secondValue}"); }
+                    else if (choice == 2) { Console.WriteLine($"\t{firstValue} + {secondValue} = {firstValue + secondValue}"); }
+                    else if (choice == 3) { Console.WriteLine($"\t{firstValue} * {secondValue} = {firstValue * secondValue}"); }
                     else if (choice == 4)
                     {
-                        Console.WriteLine("\t" + firstValue + " / " + secondValue + " = " + (firstValue / secondValue));
+                        Console.WriteLine($"\t{firstValue} / {secondValue} = {firstValue / secondValue}");
                         if (secondValue == 0) { Console.WriteLine("На ноль делить нельзя!"); }
                     }
                     else if (choice == 5)
                     {
-                        Console.WriteLine("\t" + firstValue + " % " + secondValue + " = " + (firstValue % secondValue));
+                        Console.WriteLine($"\t{firstValue} % {secondValue} = {firstValue % secondValue}");
                         if (secondValue == 0) { Console.WriteLine("На ноль делить нельзя!"); }
                     }
                 }
@@ -127,20 +128,20 @@ namespace CSharp_for_education
                     switch (choice)
                     {
                         case 1:
-                            Console.WriteLine(firstValue + " - " + secondValue + " = " + (firstValue - secondValue));
+                            Console.WriteLine($"\t{firstValue} - {secondValue} = {firstValue - secondValue}");
                             break;
                         case 2:
-                            Console.WriteLine("\t" + firstValue + " + " + secondValue + " = " + (firstValue + secondValue));
+                            Console.WriteLine($"\t{firstValue} + {secondValue} = {firstValue + secondValue}");
                             break;
                         case 3:
-                            Console.WriteLine("\t" + firstValue + " * " + secondValue + " = " + (firstValue * secondValue));
+                            Console.WriteLine($"\t{firstValue} * {secondValue} = {firstValue * secondValue}");
                             break;
                         case 4:
-                            Console.WriteLine("\t" + firstValue + " / " + secondValue + " = " + (firstValue / secondValue));
+                            Console.WriteLine($"\t{firstValue} / {secondValue} = {firstValue / secondValue}");
                             if (secondValue == 0) { Console.WriteLine("На ноль делить нельзя!"); }
                             break;
                         case 5:
-                            Console.WriteLine("\t" + firstValue + " % " + secondValue + " = " + (firstValue % secondValue));
+                            Console.WriteLine($"\t{firstValue} % {secondValue} = {firstValue % secondValue}");
                             if (secondValue == 0) { Console.WriteLine("На ноль делить нельзя!"); }
                             break;
 
@@ -167,7 +168,7 @@ namespace CSharp_for_education
             Console.Write("Введите высоту треугольника: ");
             int height = int.Parse(Console.ReadLine());
 
-            for (int i = height; i > 0; i--)
+            for (int i = 0; i < height; i++)
             {
                 for(int j = 0; j < i; ++j)
                 {
@@ -182,19 +183,18 @@ namespace CSharp_for_education
 
         public static void PasswordCheck()
         {
-            bool Check;
-
+            
             string TruePassword = "unicode";
 
             Console.Write("Введите пароль: ");
             string EnteredPassword = Console.ReadLine();
 
-            Check = TruePassword == EnteredPassword ? true : false;
+            bool Check = TruePassword == EnteredPassword ? true : false;
             Console.WriteLine(Check);
         }
 
         public static void ModuleCheck()
-        {
+        {   
 
             Console.Write("Введите число: ");
 
@@ -211,7 +211,7 @@ namespace CSharp_for_education
 
             for (int i = 0; i < arr.Length; i++)
             {
-                Console.Write("array[" + i +"]" + " = ");
+                Console.Write($"array[{i}] = ");
                 arr[i] = int.Parse(Console.ReadLine());
             }
             Console.Clear();
@@ -231,21 +231,21 @@ namespace CSharp_for_education
                 if (arr[i] < min)
                     min = arr[i];
             }
-            Console.WriteLine($"Сумма чётных чисел: {sum} \nМинимальное число в массиве: {min}");
+            Console.WriteLine("Сумма чётных чисел: " + sum + "\nМинимальное число в массиве: " + min);
             
 
 
         }
 
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
 
 
-        //    ArrayWork();
+            Calculator();
 
-        //    Console.WriteLine("Press any key to close...");
-        //    Console.ReadKey();
-        //}
+            Console.WriteLine("Press any key to close...");
+            Console.ReadKey();
+        }
 
     }
 }

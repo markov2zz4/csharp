@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    class Class1
-    {
-    }
+    
 }
