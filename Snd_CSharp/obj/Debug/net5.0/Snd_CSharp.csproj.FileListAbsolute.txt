@@ -1,0 +1,16 @@
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.csproj.AssemblyReference.cache
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.AssemblyInfoInputs.cache
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.AssemblyInfo.cs
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.exe
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.deps.json
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.runtimeconfig.json
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.runtimeconfig.dev.json
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.dll
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\ref\Snd_CSharp.dll
+G:\C# (Скопин)\csharp\Snd_CSharp\bin\Debug\net5.0\Snd_CSharp.pdb
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.dll
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\ref\Snd_CSharp.dll
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.pdb
+G:\C# (Скопин)\csharp\Snd_CSharp\obj\Debug\net5.0\Snd_CSharp.genruntimeconfig.cache

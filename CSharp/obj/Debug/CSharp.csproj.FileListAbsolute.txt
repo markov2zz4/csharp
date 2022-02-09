@@ -5,3 +5,10 @@ D:\Work\Programming\csharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cach
 D:\Work\Programming\csharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
 D:\Work\Programming\csharp\CSharp\obj\Debug\CSharp.exe
 D:\Work\Programming\csharp\CSharp\obj\Debug\CSharp.pdb
+G:\C# (Скопин)\csharp\CSharp\bin\Debug\CSharp.exe.config
+G:\C# (Скопин)\csharp\CSharp\bin\Debug\CSharp.exe
+G:\C# (Скопин)\csharp\CSharp\bin\Debug\CSharp.pdb
+G:\C# (Скопин)\csharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+G:\C# (Скопин)\csharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\csharp\CSharp\obj\Debug\CSharp.exe
+G:\C# (Скопин)\csharp\CSharp\obj\Debug\CSharp.pdb

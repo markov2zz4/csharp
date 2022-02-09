@@ -240,7 +240,6 @@ namespace CSharp_for_education
         static void Main(string[] args)
         {
 
-
             Calculator();
 
             Console.WriteLine("Press any key to close...");

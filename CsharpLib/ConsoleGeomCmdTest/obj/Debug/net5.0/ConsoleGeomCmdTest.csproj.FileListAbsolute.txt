@@ -1,0 +1,11 @@
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\bin\Debug\net5.0\ConsoleGeomCmdTest.deps.json
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\bin\Debug\net5.0\ConsoleGeomCmdTest.dll
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\bin\Debug\net5.0\ref\ConsoleGeomCmdTest.dll
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\bin\Debug\net5.0\ConsoleGeomCmdTest.pdb
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.AssemblyInfoInputs.cache
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.AssemblyInfo.cs
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.csproj.CoreCompileInputs.cache
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.dll
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ref\ConsoleGeomCmdTest.dll
+G:\C# (Скопин)\csharp\CsharpLib\ConsoleGeomCmdTest\obj\Debug\net5.0\ConsoleGeomCmdTest.pdb
