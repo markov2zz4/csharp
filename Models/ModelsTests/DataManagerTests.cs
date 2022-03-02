@@ -18,7 +18,7 @@ namespace Models.Tests
         {
             DataManager data = new DataManager(new RecordRep());
 
-            cw
+            
             Assert.IsTrue(data.Records.Items.Length == 4);
 
 
