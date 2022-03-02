@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleGeom.Lib.Shapes.Lines;
+using System;
 
 namespace ConsoleGeomCmdTest
 {
@@ -6,7 +7,8 @@ namespace ConsoleGeomCmdTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            VerticalLine line = new VerticalLine(new ConsoleGeom.Lib.Point {X = 2, Y = 0 });
+            line.Print();
         }
     }
 }

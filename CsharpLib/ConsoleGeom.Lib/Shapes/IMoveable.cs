@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleGeom.Lib.Shapes
 {
-    class IMoveable
+    public interface IMoveable
     {
+        void Move(Point finish);
+
     }
 }
