@@ -1,0 +1,16 @@
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.exe
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.deps.json
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.runtimeconfig.json
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.runtimeconfig.dev.json
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.dll
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\ref\Lektsii_SKOPIN.dll
+D:\Work\Programming\csharp\Lektsii_SKOPIN\bin\Debug\net5.0\Lektsii_SKOPIN.pdb
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.csproj.AssemblyReference.cache
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.AssemblyInfoInputs.cache
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.AssemblyInfo.cs
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.csproj.CoreCompileInputs.cache
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.dll
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\ref\Lektsii_SKOPIN.dll
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.pdb
+D:\Work\Programming\csharp\Lektsii_SKOPIN\obj\Debug\net5.0\Lektsii_SKOPIN.genruntimeconfig.cache
