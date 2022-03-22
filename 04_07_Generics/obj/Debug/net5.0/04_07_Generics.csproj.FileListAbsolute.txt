@@ -1,0 +1,16 @@
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.exe
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.deps.json
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.runtimeconfig.json
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.runtimeconfig.dev.json
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.dll
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\ref\04_07_Generics.dll
+D:\Work\Programming\csharp\04_07_Generics\bin\Debug\net5.0\04_07_Generics.pdb
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.csproj.AssemblyReference.cache
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.AssemblyInfoInputs.cache
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.AssemblyInfo.cs
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.csproj.CoreCompileInputs.cache
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.dll
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\ref\04_07_Generics.dll
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.pdb
+D:\Work\Programming\csharp\04_07_Generics\obj\Debug\net5.0\04_07_Generics.genruntimeconfig.cache
