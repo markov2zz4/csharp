@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleGeom.Lib.Shapes.Lines
 {
-    class Line
+    public abstract class Line : Base
     {
+        
     }
 }
